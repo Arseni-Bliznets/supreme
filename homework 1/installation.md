@@ -1,9 +1,9 @@
 Database installation:
 
-#1. 
+# 1. 
 <img width="788" height="596" alt="photo_2026-07-21_14-52-27" src="https://github.com/user-attachments/assets/1176a954-45d3-4da1-a7c3-e48429497749" />
 
-#2. 
+# 2. 
 <img width="784" height="586" alt="photo_2026-07-21_14-58-10" src="https://github.com/user-attachments/assets/44c296d5-24f4-4f7b-ae06-e4ec5a1999cc" />
 
 3.<img width="786" height="587" alt="photo_3_2026-07-27_17-17-45" src="https://github.com/user-attachments/assets/ac6a912e-96a9-439e-a02f-b77faa75a58e" />
